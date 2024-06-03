@@ -2,4 +2,4 @@
 
 App that shares videos, similar to Youtube.
 
-[![VIDEO SHARING APP](https://i.ytimg.com/vi/rqsyTI5KQb8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbzuEcR1Ck2x3WWlyC6M8FLJCIeg)](https://youtu.be/SJb86g5w3Lw)
+[![VIDEO SHARING APP](https://i9.ytimg.com/vi/o5hWfk7oDsE/mq2.jpg?sqp=COiH-bIG&rs=AOn4CLCFHU9_jm-tXiUPn82Ktbeu-ZuMfg&retry=2)](https://youtu.be/o5hWfk7oDsE)
